@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="768">
+	<rect fill="none" stroke="rgb(155,155,155)" stroke-width="2" stroke-miterlimit="4" stroke-opacity="0.39215687" width="1024" height="768"/>
+	<rect fill="rgb(57,57,57)" fill-opacity="0.76862746" stroke="none" width="1024" height="768"/>
+	<text fill="rgb(127,127,127)" stroke="none" font-size="14" font-family="Segoe UI" x="0" y="-7">
+			Laptop
+	</text>
+	<text fill="rgb(189,189,189)" stroke="none" font-size="14" font-family="Segoe UI" x="46.956055" y="-7">
+			1024×768
+	</text>
+</svg>
